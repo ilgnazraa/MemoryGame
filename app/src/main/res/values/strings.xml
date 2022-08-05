@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="eslesme_0_8">Eslesme: 0/8</string>
+    <string name="hamle_0">Hamle: 0</string>
+</resources>
